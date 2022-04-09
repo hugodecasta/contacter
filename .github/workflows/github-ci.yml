@@ -9,7 +9,7 @@ on:
 env:
   KEYDB_HOST: https://keydb.hugocastaneda.fr
   TEST_CONN: contact_tester
-  TEST_PAS: 256kwBHYCCpC3eSy
+  TEST_PASS: 256kwBHYCCpC3eSy
 
 jobs:
   build-and-push:
