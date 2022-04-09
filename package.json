@@ -32,6 +32,8 @@
   },
   "devDependencies": {
     "ava": "^4.1.0",
+    "fs-extra": "^10.0.1",
+    "rimraf": "^3.0.2",
     "swagger-autogen": "^2.20.6"
   }
 }
