@@ -1,0 +1,37 @@
+{
+  "name": "contacter",
+  "version": "0.1.0",
+  "description": "Contact Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugodecasta/contacter.git"
+  },
+  "keywords": [
+    "Contact",
+    "Server"
+  ],
+  "author": "Hugo Castaneda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugodecasta/contacter/issues"
+  },
+  "homepage": "https://github.com/hugodecasta/contacter#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "node-fetch": "^2.6.7",
+    "nodemailer": "^6.7.3",
+    "swagger-ui-express": "^4.3.0",
+    "twilio": "^3.76.1"
+  },
+  "devDependencies": {
+    "ava": "^4.1.0",
+    "swagger-autogen": "^2.20.6"
+  }
+}
