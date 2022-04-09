@@ -22,7 +22,7 @@
         }
       }
     },
-    "/contact/{method}": {
+    "/send/{method}": {
       "post": {
         "description": "",
         "parameters": [
